@@ -1,0 +1,26 @@
+{
+  "group": "the_star_wars_saga_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "the_star_wars_saga_mod:shrub_log"
+    },
+    "1": {
+      "item": "the_star_wars_saga_mod:shrub_log"
+    },
+    "2": {
+      "item": "the_star_wars_saga_mod:shrub_log"
+    },
+    "3": {
+      "item": "the_star_wars_saga_mod:shrub_log"
+    }
+  },
+  "result": {
+    "item": "the_star_wars_saga_mod:shrub_wood",
+    "count": 3
+  }
+}

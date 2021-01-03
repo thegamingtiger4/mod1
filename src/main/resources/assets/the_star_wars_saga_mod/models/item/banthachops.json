@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "the_star_wars_saga_mod:items/banthawmeat1"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "group": "the_star_wars_saga_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "the_star_wars_saga_mod:bersker_ingot"
+    },
+    "1": {
+      "item": "the_star_wars_saga_mod:bersker_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "the_star_wars_saga_mod:bersker_hoe",
+    "count": 1
+  }
+}

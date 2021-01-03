@@ -1,0 +1,60 @@
+{
+  "_fv": 13,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "Blocks.MAGMA"
+    },
+    "portalParticles": {
+      "value": "FALL_LAVA"
+    },
+    "portalLuminance": 0.05,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Mustffar Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:Mustfar"
+    },
+    "texture": "ignitert",
+    "portalTexture": "lavarock",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Mustfarlakes"
+      },
+      {
+        "value": "CUSTOM:Mustfarcrags"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Volcanorock"
+    },
+    "fluidBlock": {
+      "value": "Blocks.LAVA"
+    },
+    "airColor": {
+      "value": -4138753,
+      "frgbvalue": [
+        0.753,
+        0.847,
+        1.0
+      ],
+      "fvalue": [
+        0.753,
+        0.847,
+        1.0
+      ],
+      "falpha": 1.0
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": true,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false
+  }
+}

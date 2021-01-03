@@ -1,0 +1,12 @@
+{
+  "group": "the_star_wars_saga_mod",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "the_star_wars_saga_mod:tin_ore"
+  },
+  "result": {
+    "item": "the_star_wars_saga_mod:tin_ingot"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "the_star_wars_saga_mod:custom/turret2",
+  "textures": {
+    "all": "the_star_wars_saga_mod:blocks/turret1",
+    "particle": "the_star_wars_saga_mod:blocks/turret1",
+    "missing": "the_star_wars_saga_mod:blocks/turret1"
+  }
+}

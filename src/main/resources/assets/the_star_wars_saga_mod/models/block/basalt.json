@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_star_wars_saga_mod:blocks/basalt",
+    "up": "the_star_wars_saga_mod:blocks/basalt",
+    "north": "the_star_wars_saga_mod:blocks/basalt",
+    "east": "the_star_wars_saga_mod:blocks/basalt",
+    "south": "the_star_wars_saga_mod:blocks/basalt",
+    "west": "the_star_wars_saga_mod:blocks/basalt",
+    "particle": "the_star_wars_saga_mod:blocks/basalt"
+  }
+}

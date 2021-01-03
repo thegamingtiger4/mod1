@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "the_star_wars_saga_mod:block/sandbag"
+    },
+    "type=top": {
+      "model": "the_star_wars_saga_mod:block/sandbag_top"
+    },
+    "type=double": {
+      "model": "the_star_wars_saga_mod:block/sandbag_full"
+    }
+  }
+}

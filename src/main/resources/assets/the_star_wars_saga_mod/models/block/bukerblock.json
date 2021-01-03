@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_star_wars_saga_mod:blocks/bunker_block",
+    "up": "the_star_wars_saga_mod:blocks/bunker_block",
+    "north": "the_star_wars_saga_mod:blocks/bunker_block",
+    "east": "the_star_wars_saga_mod:blocks/bunker_block",
+    "south": "the_star_wars_saga_mod:blocks/bunker_block",
+    "west": "the_star_wars_saga_mod:blocks/bunker_block",
+    "particle": "the_star_wars_saga_mod:blocks/bunker_block"
+  }
+}

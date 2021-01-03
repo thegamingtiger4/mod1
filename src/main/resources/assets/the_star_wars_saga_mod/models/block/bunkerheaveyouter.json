@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_star_wars_saga_mod:blocks/outerbunkergrey",
+    "up": "the_star_wars_saga_mod:blocks/outerbunkergrey",
+    "north": "the_star_wars_saga_mod:blocks/outerbunkergrey",
+    "east": "the_star_wars_saga_mod:blocks/outerbunkergrey",
+    "south": "the_star_wars_saga_mod:blocks/outerbunkergrey",
+    "west": "the_star_wars_saga_mod:blocks/outerbunkergrey",
+    "particle": "the_star_wars_saga_mod:blocks/outerbunkergrey"
+  }
+}

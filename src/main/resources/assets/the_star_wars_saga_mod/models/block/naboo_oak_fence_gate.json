@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "texture": "the_star_wars_saga_mod:blocks/naboo_oak_planks"
+  }
+}

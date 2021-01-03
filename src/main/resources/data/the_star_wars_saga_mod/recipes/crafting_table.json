@@ -1,0 +1,12 @@
+{
+  "group": "the_star_wars_saga_mod",
+  "type": "minecraft:campfire_cooking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "the_star_wars_saga_mod:banthachops"
+  },
+  "result": {
+    "item": "the_star_wars_saga_mod:searedbanthachops"
+  }
+}

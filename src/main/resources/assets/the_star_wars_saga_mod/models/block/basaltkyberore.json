@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_star_wars_saga_mod:blocks/blackkyber",
+    "up": "the_star_wars_saga_mod:blocks/blackkyber",
+    "north": "the_star_wars_saga_mod:blocks/blackkyber",
+    "east": "the_star_wars_saga_mod:blocks/blackkyber",
+    "south": "the_star_wars_saga_mod:blocks/blackkyber",
+    "west": "the_star_wars_saga_mod:blocks/blackkyber",
+    "particle": "the_star_wars_saga_mod:blocks/blackkyber"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "elctrostaff1texture_-_copy",
+    "customModelName": "elctrostaff1_-_copy:default",
+    "name": "Elctrostaff",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 7,
+    "efficiency": 7.0,
+    "attackSpeed": 5.5,
+    "enchantability": 17,
+    "damageVsEntity": 14.0,
+    "usageCount": 10100,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

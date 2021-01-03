@@ -1,0 +1,42 @@
+{
+  "group": "the_star_wars_saga_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_star_wars_saga_mod:copper_dust"
+    },
+    "1": {
+      "item": "the_star_wars_saga_mod:copper_dust"
+    },
+    "2": {
+      "item": "the_star_wars_saga_mod:copper_dust"
+    },
+    "3": {
+      "item": "the_star_wars_saga_mod:copper_dust"
+    },
+    "4": {
+      "item": "the_star_wars_saga_mod:copper_dust"
+    },
+    "5": {
+      "item": "the_star_wars_saga_mod:copper_dust"
+    },
+    "6": {
+      "item": "the_star_wars_saga_mod:copper_dust"
+    },
+    "7": {
+      "item": "the_star_wars_saga_mod:copper_dust"
+    },
+    "8": {
+      "item": "the_star_wars_saga_mod:copper_dust"
+    }
+  },
+  "result": {
+    "item": "the_star_wars_saga_mod:copper_ore_block",
+    "count": 1
+  }
+}

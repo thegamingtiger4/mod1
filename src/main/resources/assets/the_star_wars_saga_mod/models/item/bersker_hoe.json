@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "the_star_wars_saga_mod:items/bersker_hoe"
+  }
+}

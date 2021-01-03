@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_post",
+  "textures": {
+    "edge": "the_star_wars_saga_mod:blocks/spikebars1",
+    "pane": "the_star_wars_saga_mod:blocks/spikebars1"
+  }
+}

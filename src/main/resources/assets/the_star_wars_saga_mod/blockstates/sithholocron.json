@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "the_star_wars_saga_mod:block/sithholocron"
+    },
+    "facing=east": {
+      "model": "the_star_wars_saga_mod:block/sithholocron",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "the_star_wars_saga_mod:block/sithholocron",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "the_star_wars_saga_mod:block/sithholocron",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "the_star_wars_saga_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "the_star_wars_saga_mod:bersker_ingot"
+    },
+    "2": {
+      "item": "the_star_wars_saga_mod:bersker_ingot"
+    },
+    "3": {
+      "item": "the_star_wars_saga_mod:bersker_ingot"
+    },
+    "5": {
+      "item": "the_star_wars_saga_mod:bersker_ingot"
+    }
+  },
+  "result": {
+    "item": "the_star_wars_saga_mod:bersker_armor_boots",
+    "count": 1
+  }
+}

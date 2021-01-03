@@ -1,0 +1,117 @@
+{
+  "_fv": 13,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 433,
+    "height": 257,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "mustfarrplannet.png",
+          "use1Xscale": false,
+          "name": "mustfarrplannet.png",
+          "x": 44,
+          "y": 42
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "mustfar",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "mustfar",
+          "x": 36,
+          "y": 24
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "tatnieplannet.png",
+          "use1Xscale": false,
+          "name": "tatnieplannet.png",
+          "x": 152,
+          "y": 74
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "earth.png",
+          "use1Xscale": false,
+          "name": "earth.png",
+          "x": 0,
+          "y": 224
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "earth",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "earth",
+          "x": 0,
+          "y": 208
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "tatoonie",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "tatoonie",
+          "x": 143,
+          "y": 55
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "tatnieplannet.png",
+          "use1Xscale": false,
+          "name": "tatnieplannet.png",
+          "x": 126,
+          "y": 36
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "endorplannet.png",
+          "use1Xscale": false,
+          "name": "endorplannet.png",
+          "x": 126,
+          "y": 35
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "endor and death star",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "endor and death star",
+          "x": 87,
+          "y": 17
+        }
+      }
+    ]
+  }
+}

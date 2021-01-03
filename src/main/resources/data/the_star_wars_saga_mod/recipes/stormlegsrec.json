@@ -1,0 +1,26 @@
+{
+  "group": "the_star_wars_saga_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "the_star_wars_saga_mod:plastiodalloy"
+    },
+    "2": {
+      "item": "the_star_wars_saga_mod:plastiodalloy"
+    },
+    "3": {
+      "item": "the_star_wars_saga_mod:plastiodalloy"
+    },
+    "5": {
+      "item": "the_star_wars_saga_mod:plastiodalloy"
+    }
+  },
+  "result": {
+    "item": "the_star_wars_saga_mod:stormtrooper_boots",
+    "count": 1
+  }
+}

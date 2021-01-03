@@ -1,0 +1,11 @@
+{
+  "_fv": 13,
+  "_type": "tab",
+  "definition": {
+    "name": "Defensive",
+    "icon": {
+      "value": "CUSTOM:SANDBAG"
+    },
+    "showSearch": false
+  }
+}

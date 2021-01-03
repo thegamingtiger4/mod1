@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "the_star_wars_saga_mod:blocks/port1",
+    "top": "the_star_wars_saga_mod:blocks/port1"
+  }
+}

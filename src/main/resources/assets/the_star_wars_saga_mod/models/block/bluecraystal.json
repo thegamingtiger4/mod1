@@ -1,0 +1,9 @@
+{
+  "parent": "the_star_wars_saga_mod:custom/modelcrystal",
+  "textures": {
+    "all": "the_star_wars_saga_mod:blocks/crystal1",
+    "particle": "the_star_wars_saga_mod:blocks/crystal1",
+    "0": "the_star_wars_saga_mod:blocks/crystal1",
+    "missing": "the_star_wars_saga_mod:blocks/crystal1"
+  }
+}

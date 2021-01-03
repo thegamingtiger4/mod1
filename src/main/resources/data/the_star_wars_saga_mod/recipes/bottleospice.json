@@ -1,0 +1,22 @@
+{
+  "group": "the_star_wars_saga_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "the_star_wars_saga_mod:spicechunk"
+    },
+    "1": {
+      "item": "minecraft:potion"
+    },
+    "2": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "the_star_wars_saga_mod:bootleofspice",
+    "count": 1
+  }
+}

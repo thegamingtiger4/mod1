@@ -1,0 +1,53 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "helmetvader1st",
+    "enableBody": true,
+    "textureBody": "armour501body",
+    "enableLeggings": true,
+    "textureLeggings": "clone501leggings",
+    "enableBoots": true,
+    "textureBoots": "clone501boots",
+    "creativeTab": {
+      "value": "CUSTOM:Legoin501"
+    },
+    "armorTextureFile": "v1__",
+    "helmetName": "501st storm trooper Helmet",
+    "bodyName": "501st storm trooper Body",
+    "leggingsName": "501st storm trooper  Leggings",
+    "bootsName": "501st storm trooper Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

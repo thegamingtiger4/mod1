@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_star_wars_saga_mod:blocks/naboo_oak_log_top",
+    "up": "the_star_wars_saga_mod:blocks/naboo_oak_log_top",
+    "north": "the_star_wars_saga_mod:blocks/naboo_oak_log_side",
+    "east": "the_star_wars_saga_mod:blocks/naboo_oak_log_side",
+    "south": "the_star_wars_saga_mod:blocks/naboo_oak_log_side",
+    "west": "the_star_wars_saga_mod:blocks/naboo_oak_log_side",
+    "particle": "the_star_wars_saga_mod:blocks/naboo_oak_log_top"
+  }
+}

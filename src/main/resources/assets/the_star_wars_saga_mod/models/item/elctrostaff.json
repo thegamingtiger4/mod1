@@ -1,0 +1,7 @@
+{
+  "parent": "the_star_wars_saga_mod:custom/elctrostaff1_-_copy",
+  "textures": {
+    "0": "the_star_wars_saga_mod:blocks/",
+    "particle": "the_star_wars_saga_mod:items/elctrostaff1texture_-_copy"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "the_star_wars_saga_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:white_dye"
+    },
+    "1": {
+      "tag": "minecraft:sand"
+    },
+    "2": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "the_star_wars_saga_mod:whitepaint",
+    "count": 1
+  }
+}

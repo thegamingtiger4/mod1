@@ -1,0 +1,8 @@
+{
+  "parent": "the_star_wars_saga_mod:custom/modelholocron",
+  "textures": {
+    "all": "the_star_wars_saga_mod:blocks/holo",
+    "particle": "the_star_wars_saga_mod:blocks/holo",
+    "0": "the_star_wars_saga_mod:blocks/texture"
+  }
+}

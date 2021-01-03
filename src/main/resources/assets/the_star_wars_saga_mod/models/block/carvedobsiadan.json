@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_star_wars_saga_mod:blocks/carobs",
+    "up": "the_star_wars_saga_mod:blocks/carobs",
+    "north": "the_star_wars_saga_mod:blocks/carobs",
+    "east": "the_star_wars_saga_mod:blocks/carobs",
+    "south": "the_star_wars_saga_mod:blocks/carobs",
+    "west": "the_star_wars_saga_mod:blocks/carobs",
+    "particle": "the_star_wars_saga_mod:blocks/carobs"
+  }
+}

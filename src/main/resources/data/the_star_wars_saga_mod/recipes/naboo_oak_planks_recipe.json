@@ -1,0 +1,13 @@
+{
+  "group": "the_star_wars_saga_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:naboo_oak_log"
+    }
+  ],
+  "result": {
+    "item": "the_star_wars_saga_mod:naboo_oak_planks",
+    "count": 4
+  }
+}

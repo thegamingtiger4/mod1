@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "the_star_wars_saga_mod:block/shrub_slab"
+    },
+    "type=top": {
+      "model": "the_star_wars_saga_mod:block/shrub_slab_top"
+    },
+    "type=double": {
+      "model": "the_star_wars_saga_mod:block/shrub_slab_full"
+    }
+  }
+}

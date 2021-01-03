@@ -1,0 +1,19 @@
+{
+  "_fv": 13,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:ShrubWood"
+      },
+      {
+        "value": "CUSTOM:ShrubLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "shrub_log",
+    "namespace": "forge"
+  }
+}

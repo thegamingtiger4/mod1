@@ -1,0 +1,27 @@
+{
+  "_fv": 10,
+  "_type": "structure",
+  "definition": {
+    "structure": "ewokvillge",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 7000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 10,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:Endor"
+    ],
+    "restrictionBlocks": [],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Endorforest"
+      },
+      {
+        "value": "CUSTOM:Endorclearings"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

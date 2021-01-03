@@ -1,0 +1,42 @@
+{
+  "group": "the_star_wars_saga_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_star_wars_saga_mod:refindtitanium"
+    },
+    "1": {
+      "item": "the_star_wars_saga_mod:bluekybershard"
+    },
+    "2": {
+      "item": "the_star_wars_saga_mod:refindtitanium"
+    },
+    "3": {
+      "item": "minecraft:stone_button"
+    },
+    "4": {
+      "item": "the_star_wars_saga_mod:titanium"
+    },
+    "5": {
+      "item": "minecraft:blaze_powder"
+    },
+    "6": {
+      "item": "the_star_wars_saga_mod:refindtitanium"
+    },
+    "7": {
+      "item": "minecraft:redstone_wall_torch"
+    },
+    "8": {
+      "item": "the_star_wars_saga_mod:refindtitanium"
+    }
+  },
+  "result": {
+    "item": "the_star_wars_saga_mod:ankinslightsaber",
+    "count": 1
+  }
+}

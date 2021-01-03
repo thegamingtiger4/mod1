@@ -1,0 +1,2377 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "BerskerIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bersker_ingot"
+    },
+    {
+      "name": "BerskerOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bersker_ore"
+    },
+    {
+      "name": "BerskerOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bersker_ore_smelting"
+    },
+    {
+      "name": "Jarjarbinks",
+      "type": "mob",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jarjarbinks"
+    },
+    {
+      "name": "Clone501",
+      "type": "armor",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_501",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Clone401",
+      "type": "armor",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_401",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "FD11",
+      "type": "gun",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fd_11"
+    },
+    {
+      "name": "Porg",
+      "type": "mob",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "porg"
+    },
+    {
+      "name": "CopperDust",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_dust"
+    },
+    {
+      "name": "CopperOre",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore"
+    },
+    {
+      "name": "CopperOreBlock",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore_block"
+    },
+    {
+      "name": "CopperOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore_block_recipe"
+    },
+    {
+      "name": "Wolfepack",
+      "type": "armor",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endor_rebal",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Cody",
+      "type": "armor",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cody",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Ewokshaman",
+      "type": "mob",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ewokshaman"
+    },
+    {
+      "name": "Wookie",
+      "type": "mob",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wookie"
+    },
+    {
+      "name": "Bowcaster",
+      "type": "gun",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bowcaster"
+    },
+    {
+      "name": "Stormtrooper",
+      "type": "armor",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stormtrooper",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Ewokchief",
+      "type": "mob",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ewokchief"
+    },
+    {
+      "name": "Ewokhead",
+      "type": "mob",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ewokhead"
+    },
+    {
+      "name": "Subtomychannel",
+      "type": "painting",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "subtomychannel"
+    },
+    {
+      "name": "Banthachops",
+      "type": "food",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "banthachops"
+    },
+    {
+      "name": "Searedbanthachops",
+      "type": "food",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "searedbanthachops"
+    },
+    {
+      "name": "Cartredge",
+      "type": "particle",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cartredge"
+    },
+    {
+      "name": "ClonecommandoBodyTickEvent",
+      "type": "procedure",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clonecommando_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ClonecommandoHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clonecommando_helmet_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Clonecommando",
+      "type": "armor",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clonecommando",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Endor",
+      "type": "dimension",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endor"
+    },
+    {
+      "name": "Bunkerheaveyouter",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bunkerheaveyouter"
+    },
+    {
+      "name": "Bunkerhouterrec",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bunkerhouterrec"
+    },
+    {
+      "name": "Bunkerweak",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bunkerweak"
+    },
+    {
+      "name": "Bukerblock",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bukerblock"
+    },
+    {
+      "name": "Camoesheet",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camoesheet"
+    },
+    {
+      "name": "Naboo_oakWood",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naboo_oak_wood"
+    },
+    {
+      "name": "Naboo_oakLog",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naboo_oak_log"
+    },
+    {
+      "name": "Naboo_oakPlanks",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naboo_oak_planks"
+    },
+    {
+      "name": "Naboo_oakLeaves",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naboo_oak_leaves"
+    },
+    {
+      "name": "Naboo_oakStairs",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naboo_oak_stairs"
+    },
+    {
+      "name": "Naboo_oakSlab",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naboo_oak_slab"
+    },
+    {
+      "name": "Naboo_oakFence",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naboo_oak_fence"
+    },
+    {
+      "name": "Naboo_oakFenceGate",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naboo_oak_fence_gate"
+    },
+    {
+      "name": "Naboo_oakItemsTag",
+      "type": "tag",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naboo_oak_items_tag"
+    },
+    {
+      "name": "Naboo_oakWoodRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naboo_oak_wood_recipe"
+    },
+    {
+      "name": "Naboo_oakPlanksRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naboo_oak_planks_recipe"
+    },
+    {
+      "name": "Naboo_oakStairsRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naboo_oak_stairs_recipe"
+    },
+    {
+      "name": "Naboo_oakSlabRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naboo_oak_slab_recipe"
+    },
+    {
+      "name": "Naboo_oakFenceRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naboo_oak_fence_recipe"
+    },
+    {
+      "name": "Naboo_oakFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naboo_oak_fence_gate_recipe"
+    },
+    {
+      "name": "Naboo_oakStickRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naboo_oak_stick_recipe"
+    },
+    {
+      "name": "Bunkerdoor",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bunkerdoor"
+    },
+    {
+      "name": "IronspikesEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironspikes_entity_walks_on_the_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ironspikes",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironspikes"
+    },
+    {
+      "name": "Endorbunker",
+      "type": "structure",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endorbunker"
+    },
+    {
+      "name": "Credits5",
+      "type": "item",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "credits_5"
+    },
+    {
+      "name": "Silvercredits",
+      "type": "item",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silvercredits"
+    },
+    {
+      "name": "Coppercreddit",
+      "type": "item",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coppercreddit"
+    },
+    {
+      "name": "Berskercreddit",
+      "type": "item",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "berskercreddit"
+    },
+    {
+      "name": "Money",
+      "type": "tab",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "money"
+    },
+    {
+      "name": "Flamefrower1BulletHitsPlayer",
+      "type": "procedure",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flamefrower_1_bullet_hits_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Flamefrower1",
+      "type": "gun",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flamefrower_1"
+    },
+    {
+      "name": "Flamefrower1BulletHitsBlock",
+      "type": "procedure",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flamefrower_1_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ShrubWood",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shrub_wood"
+    },
+    {
+      "name": "ShrubLog",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shrub_log"
+    },
+    {
+      "name": "ShrubPlanks",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shrub_planks"
+    },
+    {
+      "name": "ShrubLeaves",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shrub_leaves"
+    },
+    {
+      "name": "ShrubStairs",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shrub_stairs"
+    },
+    {
+      "name": "ShrubSlab",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shrub_slab"
+    },
+    {
+      "name": "ShrubFence",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shrub_fence"
+    },
+    {
+      "name": "ShrubFenceGate",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shrub_fence_gate"
+    },
+    {
+      "name": "ShrubItemsTag",
+      "type": "tag",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shrub_items_tag"
+    },
+    {
+      "name": "ShrubWoodRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shrub_wood_recipe"
+    },
+    {
+      "name": "ShrubPlanksRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shrub_planks_recipe"
+    },
+    {
+      "name": "ShrubStairsRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shrub_stairs_recipe"
+    },
+    {
+      "name": "ShrubSlabRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shrub_slab_recipe"
+    },
+    {
+      "name": "ShrubFenceRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shrub_fence_recipe"
+    },
+    {
+      "name": "ShrubFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shrub_fence_gate_recipe"
+    },
+    {
+      "name": "ShrubStickRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shrub_stick_recipe"
+    },
+    {
+      "name": "BarcspeederOnInitialEntitySpawn",
+      "type": "procedure",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "barcspeeder_on_initial_entity_spawn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Barcspeeder",
+      "type": "mob",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "barcspeeder"
+    },
+    {
+      "name": "Bantha",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bantha"
+    },
+    {
+      "name": "Moseisly",
+      "type": "structure",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moseisly"
+    },
+    {
+      "name": "TatoniePlayerEntersDimension",
+      "type": "procedure",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tatonie_player_enters_dimension",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Tatonie",
+      "type": "dimension",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tatonie"
+    },
+    {
+      "name": "SANDBAG",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sandbag"
+    },
+    {
+      "name": "Defensive",
+      "type": "tab",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "defensive"
+    },
+    {
+      "name": "Ee11",
+      "type": "gun",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ee_11"
+    },
+    {
+      "name": "TurretOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "turret_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TurretRedstoneOn",
+      "type": "procedure",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "turret_redstone_on",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Turret",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "turret"
+    },
+    {
+      "name": "TurretRedstoneOn1",
+      "type": "procedure",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "turret_redstone_on_1",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Turret2",
+      "type": "code",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "turret_2"
+    },
+    {
+      "name": "TurretRedstoneOn3",
+      "type": "procedure",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "turret_redstone_on_3",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Spiceore",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiceore"
+    },
+    {
+      "name": "Spicechunk",
+      "type": "item",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spicechunk"
+    },
+    {
+      "name": "BootleofspiceFoodEaten",
+      "type": "procedure",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bootleofspice_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bootleofspice",
+      "type": "food",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bootleofspice"
+    },
+    {
+      "name": "Bottleospice",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bottleospice"
+    },
+    {
+      "name": "Falconturret",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "falconturret"
+    },
+    {
+      "name": "Admrilorgenral",
+      "type": "armor",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "admrilorgenral",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Imprielcommnder",
+      "type": "mob",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "imprielcommnder"
+    },
+    {
+      "name": "PUMICE",
+      "type": "block",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pumice"
+    },
+    {
+      "name": "Mustfar",
+      "type": "tab",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mustfar"
+    },
+    {
+      "name": "Carvedobsiadan",
+      "type": "block",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carvedobsiadan"
+    },
+    {
+      "name": "Lavarock",
+      "type": "block",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lavarock"
+    },
+    {
+      "name": "Basalt",
+      "type": "block",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt"
+    },
+    {
+      "name": "Volcanorock",
+      "type": "block",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "volcanorock"
+    },
+    {
+      "name": "Mustfarlakes",
+      "type": "biome",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mustfarlakes"
+    },
+    {
+      "name": "Mustfarcrags",
+      "type": "biome",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mustfarcrags"
+    },
+    {
+      "name": "Blackkyber",
+      "type": "item",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blackkyber"
+    },
+    {
+      "name": "Basaltkyberore",
+      "type": "block",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basaltkyberore"
+    },
+    {
+      "name": "Mustffar",
+      "type": "dimension",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mustffar"
+    },
+    {
+      "name": "DarksaberRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darksaber_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Darksaber",
+      "type": "tool",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darksaber"
+    },
+    {
+      "name": "Smoothvolcanorock",
+      "type": "block",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smoothvolcanorock"
+    },
+    {
+      "name": "Sithtable",
+      "type": "block",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sithtable"
+    },
+    {
+      "name": "Button",
+      "type": "procedure",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "button",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sithtablegui",
+      "type": "gui",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sithtablegui"
+    },
+    {
+      "name": "Tsest",
+      "type": "gui",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tsest"
+    },
+    {
+      "name": "Lightsaberforge1",
+      "type": "gui",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightsaberforge_1"
+    },
+    {
+      "name": "Hiltdarksaber",
+      "type": "item",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hiltdarksaber"
+    },
+    {
+      "name": "Emmtirdarksaber",
+      "type": "item",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emmtirdarksaber"
+    },
+    {
+      "name": "Recipe1",
+      "type": "procedure",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_1",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Smothvolcancstone",
+      "type": "block",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smothvolcancstone"
+    },
+    {
+      "name": "Smothston1",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smothston_1"
+    },
+    {
+      "name": "Polishedvolcrockrec",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polishedvolcrockrec"
+    },
+    {
+      "name": "Kesselsand",
+      "type": "block",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kesselsand"
+    },
+    {
+      "name": "Kessel",
+      "type": "biome",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kessel"
+    },
+    {
+      "name": "Kesselplannet",
+      "type": "dimension",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kesselplannet"
+    },
+    {
+      "name": "Kesseldroidchest",
+      "type": "gui",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kesseldroidchest"
+    },
+    {
+      "name": "Kesselsecuritydroid",
+      "type": "mob",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kesselsecuritydroid"
+    },
+    {
+      "name": "Farmdroid",
+      "type": "mob",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "farmdroid"
+    },
+    {
+      "name": "Superbattledroid",
+      "type": "mob",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "superbattledroid"
+    },
+    {
+      "name": "Droidtamed",
+      "type": "gui",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "droidtamed"
+    },
+    {
+      "name": "B1droid",
+      "type": "mob",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "b_1droid"
+    },
+    {
+      "name": "Trooperunrex",
+      "type": "mob",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trooperunrex"
+    },
+    {
+      "name": "Captianrexs",
+      "type": "armor",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "captianrexs",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "Jettrooper",
+      "type": "armor",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jettrooper",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "JettrooperBodyTickEvent",
+      "type": "procedure",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jettrooper_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Legoin501",
+      "type": "tab",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "legoin_501"
+    },
+    {
+      "name": "JettrooperBootsTickEvent",
+      "type": "procedure",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jettrooper_boots_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "JettrooperHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jettrooper_helmet_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "JettrooperLeggingsTickEvent",
+      "type": "procedure",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jettrooper_leggings_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CaptianrexsHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "captianrexs_helmet_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Clone501HelmetTickEvent",
+      "type": "procedure",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_501_helmet_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Clone501BodyTickEvent",
+      "type": "procedure",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_501_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Clone501LeggingsTickEvent",
+      "type": "procedure",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_501_leggings_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Clone501BootsTickEvent",
+      "type": "procedure",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clone_501_boots_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ankinslightsaber",
+      "type": "tool",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ankinslightsaber"
+    },
+    {
+      "name": "Elctrostaff",
+      "type": "tool",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "elctrostaff"
+    },
+    {
+      "name": "Vadersst",
+      "type": "armor",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vadersst",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Titanium",
+      "type": "item",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium"
+    },
+    {
+      "name": "TitaniumOre",
+      "type": "block",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_ore"
+    },
+    {
+      "name": "TitaniumBlock",
+      "type": "block",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_block"
+    },
+    {
+      "name": "TitaniumOreSmelting",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_ore_smelting"
+    },
+    {
+      "name": "Unrifendtitanium",
+      "type": "item",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unrifendtitanium"
+    },
+    {
+      "name": "Refindtitanium",
+      "type": "item",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refindtitanium"
+    },
+    {
+      "name": "Refindtitnumrec",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refindtitnumrec"
+    },
+    {
+      "name": "Titnumdiscrec",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titnumdiscrec"
+    },
+    {
+      "name": "Plastiodalloy",
+      "type": "item",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastiodalloy"
+    },
+    {
+      "name": "Whitepaint",
+      "type": "item",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whitepaint"
+    },
+    {
+      "name": "Whitepaintrecp",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whitepaintrecp"
+    },
+    {
+      "name": "Stormtrooperhelmet",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stormtrooperhelmet"
+    },
+    {
+      "name": "Stormlegrec",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stormlegrec"
+    },
+    {
+      "name": "Stormlegsrec",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stormlegsrec"
+    },
+    {
+      "name": "Bluekybershard",
+      "type": "item",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bluekybershard"
+    },
+    {
+      "name": "Bluecraystal",
+      "type": "block",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bluecraystal"
+    },
+    {
+      "name": "Ankinssaber",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ankinssaber"
+    },
+    {
+      "name": "Pathofthejedi",
+      "type": "achievement",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pathofthejedi"
+    },
+    {
+      "name": "Chestloottable",
+      "type": "loottable",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chestloottable"
+    },
+    {
+      "name": "Listofjediholocron",
+      "type": "gui",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "listofjediholocron"
+    },
+    {
+      "name": "Jediholocron",
+      "type": "block",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jediholocron"
+    },
+    {
+      "name": "Forcjump",
+      "type": "procedure",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "forcjump",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Forcevision",
+      "type": "procedure",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "forcevision",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Forcespeed",
+      "type": "procedure",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "forcespeed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sithscrollofstrengh",
+      "type": "item",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sithscrollofstrengh"
+    },
+    {
+      "name": "Sithstrengh",
+      "type": "procedure",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sithstrengh",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "SithmagicPotionStartedapplied",
+      "type": "procedure",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sithmagic_potion_startedapplied",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sithmagic",
+      "type": "potion",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sithmagic"
+    },
+    {
+      "name": "TinIngot",
+      "type": "item",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ingot"
+    },
+    {
+      "name": "TinOre",
+      "type": "block",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ore"
+    },
+    {
+      "name": "TinBlock",
+      "type": "block",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_block"
+    },
+    {
+      "name": "TinOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ore_block_recipe"
+    },
+    {
+      "name": "TinBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_block_ore_recipe"
+    },
+    {
+      "name": "TinOreSmelting",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ore_smelting"
+    },
+    {
+      "name": "TinPickaxe",
+      "type": "tool",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_pickaxe"
+    },
+    {
+      "name": "TinAxe",
+      "type": "tool",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_axe"
+    },
+    {
+      "name": "TinShovel",
+      "type": "tool",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_shovel"
+    },
+    {
+      "name": "TinHoe",
+      "type": "tool",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_hoe"
+    },
+    {
+      "name": "TinPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_pickaxe_recipe"
+    },
+    {
+      "name": "TinAxeRecipe",
+      "type": "recipe",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_axe_recipe"
+    },
+    {
+      "name": "TinShovelRecipe",
+      "type": "recipe",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_shovel_recipe"
+    },
+    {
+      "name": "TinHoeRecipe",
+      "type": "recipe",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_hoe_recipe"
+    },
+    {
+      "name": "Sithholocron",
+      "type": "block",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sithholocron"
+    },
+    {
+      "name": "Smoothvolcanobricks",
+      "type": "block",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smoothvolcanobricks"
+    },
+    {
+      "name": "Volcanobricks",
+      "type": "block",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "volcanobricks"
+    },
+    {
+      "name": "Volcanobricksrec",
+      "type": "recipe",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "volcanobricksrec"
+    },
+    {
+      "name": "Smoothvolcanobrickrecp",
+      "type": "recipe",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smoothvolcanobrickrecp"
+    },
+    {
+      "name": "Engine",
+      "type": "block",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "engine"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "blurrifle",
+      "type": "logic",
+      "scope": "map",
+      "value": "true"
+    }
+  ],
+  "sound_elements": [
+    {
+      "name": "yyyt",
+      "files": [
+        "star_wars_-_john_williams_-_duel_of_the_fates"
+      ],
+      "category": "master"
+    },
+    {
+      "name": "jarjarhurt",
+      "files": [
+        "jar_jar_screaming"
+      ],
+      "category": "master"
+    },
+    {
+      "name": "jarjarspeech",
+      "files": [
+        "jar_jar_sounds"
+      ],
+      "category": "master"
+    },
+    {
+      "name": "jajardeath",
+      "files": [
+        "very_very_bad"
+      ],
+      "category": "master"
+    },
+    {
+      "name": "speeder",
+      "files": [
+        "8d82b5_speeder_bike_sound_effect_-_copy"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.the_star_wars_saga_mod.flamefrower_1": "D-93 Incinerator flamethrower",
+      "item.the_star_wars_saga_mod.mustffar": "Mustffar Portal Igniter",
+      "item.the_star_wars_saga_mod.bootleofspice": "Botlle of spice",
+      "block.the_star_wars_saga_mod.naboo_oak_log": "Naboo_oak Log",
+      "item.the_star_wars_saga_mod.darksaber": "Dark saber",
+      "subtitles.speeder": "",
+      "item.the_star_wars_saga_mod.bowcaster": "Bowcaster",
+      "block.the_star_wars_saga_mod.naboo_oak_wood": "Naboo_oak Wood",
+      "entity.the_star_wars_saga_mod.kesselsecuritydroid": "Kessel security droid",
+      "advancements.pathofthejedi.title": "Path of the jedi",
+      "item.the_star_wars_saga_mod.whitepaint": "Whitepaint",
+      "block.the_star_wars_saga_mod.carvedobsiadan": "Carvedobsiadan",
+      "entity.the_star_wars_saga_mod.jarjarbinks": "Jarjar-binks",
+      "block.the_star_wars_saga_mod.naboo_oak_fence": "Naboo_oak Fence",
+      "item.the_star_wars_saga_mod.berskercreddit": "Berskercreddit",
+      "item.minecraft.splash_potion.effect.sithmagic": "Splash Sith magic",
+      "item.the_star_wars_saga_mod.stormtrooper_helmet": "Stormtrooper Helmet",
+      "item.the_star_wars_saga_mod.porg_spawn_egg": "Porg Spawn Egg",
+      "entity.the_star_wars_saga_mod.superbattledroid": "Superbattledroid",
+      "item.the_star_wars_saga_mod.clone_401_helmet": "Clone 4 0 1 Helmet",
+      "item.the_star_wars_saga_mod.refindtitanium": "Refindtitanium",
+      "block.the_star_wars_saga_mod.volcanobricks": "Volcanobricks",
+      "item.minecraft.potion.effect.sithmagic": "Sith magic",
+      "item.the_star_wars_saga_mod.emmtirdarksaber": "Emmtirdarksaber",
+      "item.the_star_wars_saga_mod.jarjarbinks": "Jarjar-binks Spawn Egg",
+      "block.the_star_wars_saga_mod.naboo_oak_planks": "Naboo_oak Planks",
+      "item.the_star_wars_saga_mod.clone_501_boots": "Clone 5 0 1 Boots",
+      "item.the_star_wars_saga_mod.jettrooper_boots": "501st Jet trooper Boots",
+      "item.the_star_wars_saga_mod.endor": "Endor Portal Igniter",
+      "item.the_star_wars_saga_mod.captianrexs_chestplate": "Captian rexs Body",
+      "item.the_star_wars_saga_mod.bluekybershard": "Bluekybershard",
+      "itemGroup.tabmustfar": "Mustfar",
+      "block.the_star_wars_saga_mod.basaltkyberore": "Basaltkyberore",
+      "effect.sithmagic": "Sithmagic",
+      "item.the_star_wars_saga_mod.admrilorgenral_helmet": "Admrilorgenral Helmet",
+      "item.the_star_wars_saga_mod.trooperunrex_spawn_egg": "501st clone trooper Spawn Egg",
+      "item.the_star_wars_saga_mod.tatonie": "Tatonie Portal Igniter",
+      "item.the_star_wars_saga_mod.sithscrollofstrengh": "Sithscrollofstrengh",
+      "block.the_star_wars_saga_mod.tin_ore": "Tin Ore",
+      "item.the_star_wars_saga_mod.stormtrooper_leggings": "Stormtrooper Leggings",
+      "block.the_star_wars_saga_mod.smothvolcancstone": "polished volcanc stone",
+      "item.the_star_wars_saga_mod.cody_boots": "Cody\u0027s Boots",
+      "block.the_star_wars_saga_mod.ironspikes": "Ironspikes",
+      "block.the_star_wars_saga_mod.shrub_slab": "Shrub Slab",
+      "item.the_star_wars_saga_mod.tin_hoe": "Tin Hoe",
+      "item.the_star_wars_saga_mod.ee_11": "Ee-11",
+      "item.the_star_wars_saga_mod.barcspeeder_spawn_egg": "Barc speeder Spawn Egg",
+      "entity.the_star_wars_saga_mod.ewokhead": "Ewokhead",
+      "biome.the_star_wars_saga_mod.mustfarcrags": "Mustfarcrags",
+      "item.the_star_wars_saga_mod.ewokshaman_spawn_egg": "Ewokshaman Spawn Egg",
+      "item.the_star_wars_saga_mod.coppercreddit": "Copper creddit",
+      "block.the_star_wars_saga_mod.basalt": "Basalt",
+      "entity.the_star_wars_saga_mod.ewokchief": "Ewok chieften",
+      "biome.the_star_wars_saga_mod.kessel": "Kessel",
+      "entity.the_star_wars_saga_mod.wookie": "Wookie",
+      "item.the_star_wars_saga_mod.jettrooper_helmet": "501st Jet trooper Helmet",
+      "block.the_star_wars_saga_mod.kesselsand": "Kesselsand",
+      "entity.the_star_wars_saga_mod.ewokshaman": "Ewokshaman",
+      "item.minecraft.tipped_arrow.effect.sithmagic": "Arrow of Sith magic",
+      "item.the_star_wars_saga_mod.jettrooper_chestplate": "501st Jet trooper Body",
+      "item.the_star_wars_saga_mod.tin_shovel": "Tin Shovel",
+      "block.the_star_wars_saga_mod.bluecraystal": "Bluecraystal",
+      "block.the_star_wars_saga_mod.copper_ore": "Copper Ore",
+      "item.the_star_wars_saga_mod.titanium": "Titanium disc",
+      "block.the_star_wars_saga_mod.volcanorock": "Volcanorock",
+      "biome.the_star_wars_saga_mod.mustfarlakes": "Mustfarl akes",
+      "item.the_star_wars_saga_mod.jettrooper_leggings": "501st Jet trooper Leggings",
+      "block.the_star_wars_saga_mod.titanium_ore": "Titanium Ore",
+      "item.the_star_wars_saga_mod.vadersst_boots": "501st storm trooper Boots",
+      "entity.the_star_wars_saga_mod.b_1droid": "B-1droid",
+      "item.the_star_wars_saga_mod.captianrexs_leggings": "Captian rexs Leggings",
+      "item.the_star_wars_saga_mod.tin_axe": "Tin Axe",
+      "block.the_star_wars_saga_mod.sithholocron": "Sithholocron",
+      "item.the_star_wars_saga_mod.clone_401_chestplate": "Clone 4 0 1 Body",
+      "block.the_star_wars_saga_mod.shrub_fence_gate": "Shrub Fence Gate",
+      "item.the_star_wars_saga_mod.fd_11": "FD 11",
+      "item.the_star_wars_saga_mod.imprielcommnder_spawn_egg": "Imprielcommnder Spawn Egg",
+      "itemGroup.tabdefensive": "Defensive",
+      "block.the_star_wars_saga_mod.shrub_fence": "Shrub Fence",
+      "block.the_star_wars_saga_mod.smoothvolcanobricks": "Smoothvolcanobricks",
+      "item.the_star_wars_saga_mod.vadersst_leggings": "501st storm trooper  Leggings",
+      "item.the_star_wars_saga_mod.blackkyber": "Blackkyber",
+      "item.the_star_wars_saga_mod.endor_rebal_chestplate": "endor Body",
+      "block.the_star_wars_saga_mod.bukerblock": "Bukerblock",
+      "block.the_star_wars_saga_mod.shrub_stairs": "Shrub Stairs",
+      "block.the_star_wars_saga_mod.engine": "Engine",
+      "item.the_star_wars_saga_mod.ewokhead": "Ewokhead Spawn Egg",
+      "item.the_star_wars_saga_mod.endor_rebal_boots": "endor Boots",
+      "item.the_star_wars_saga_mod.superbattledroid_spawn_egg": "Superbattledroid Spawn Egg",
+      "block.the_star_wars_saga_mod.spiceore": "Spiceore",
+      "item.the_star_wars_saga_mod.jarjarbinks_spawn_egg": "Jarjar-binks Spawn Egg",
+      "block.the_star_wars_saga_mod.naboo_oak_slab": "Naboo_oak Slab",
+      "advancements.pathofthejedi.descr": "obtian a blue kyber  crystal",
+      "block.the_star_wars_saga_mod.naboo_oak_leaves": "Naboo_oak Leaves",
+      "block.the_star_wars_saga_mod.sithtable": "Sithtable",
+      "item.the_star_wars_saga_mod.tin_pickaxe": "Tin Pickaxe",
+      "item.the_star_wars_saga_mod.hiltdarksaber": "Hiltdarksaber",
+      "item.the_star_wars_saga_mod.banthachops": "Banthachops",
+      "block.the_star_wars_saga_mod.naboo_oak_stairs": "Naboo_oak Stairs",
+      "item.the_star_wars_saga_mod.admrilorgenral_chestplate": "Admrilorgenral Body",
+      "item.the_star_wars_saga_mod.admrilorgenral_leggings": "Admrilorgenral Leggings",
+      "item.the_star_wars_saga_mod.searedbanthachops": "Searedbanthachops",
+      "item.the_star_wars_saga_mod.kesselsecuritydroid_spawn_egg": "Kessel security droid Spawn Egg",
+      "block.the_star_wars_saga_mod.bunkerdoor": "Bunkerdoor",
+      "itemGroup.tabmoney": "Money",
+      "item.the_star_wars_saga_mod.clone_501_leggings": "Clone 5 0 1 Leggings",
+      "block.the_star_wars_saga_mod.bersker_ore": "Bersker Ore",
+      "block.the_star_wars_saga_mod.tin_block": "Block of Tin",
+      "block.the_star_wars_saga_mod.shrub_wood": "Shrub Wood",
+      "entity.the_star_wars_saga_mod.trooperunrex": "501st clone trooper",
+      "item.the_star_wars_saga_mod.clonecommando_boots": "Clonecommando Boots",
+      "block.the_star_wars_saga_mod.bunkerheaveyouter": "Bunker heavey outer",
+      "item.the_star_wars_saga_mod.stormtrooper_chestplate": "Stormtrooper Body",
+      "item.the_star_wars_saga_mod.ewokshaman": "Ewokshaman Spawn Egg",
+      "block.the_star_wars_saga_mod.bunkerweak": "Bunkerweak",
+      "block.the_star_wars_saga_mod.falconturret": "Falconturret",
+      "entity.the_star_wars_saga_mod.imprielcommnder": "Imprielcommnder",
+      "item.the_star_wars_saga_mod.endor_rebal_helmet": "endor Helmet",
+      "item.the_star_wars_saga_mod.wookie_spawn_egg": "Wookie Spawn Egg",
+      "block.the_star_wars_saga_mod.naboo_oak_fence_gate": "Naboo_oak Fence Gate",
+      "item.the_star_wars_saga_mod.credits_5": "gold Credits ",
+      "item.the_star_wars_saga_mod.tin_ingot": "Tin",
+      "item.the_star_wars_saga_mod.clonecommando_helmet": "Clonecommando Helmet",
+      "entity.the_star_wars_saga_mod.barcspeeder": "Barc speeder",
+      "block.the_star_wars_saga_mod.sandbag": "SANDBAG",
+      "block.the_star_wars_saga_mod.lavarock": "Lavarock",
+      "item.the_star_wars_saga_mod.silvercredits": "Silver credits",
+      "item.the_star_wars_saga_mod.plastiodalloy": "Plastiod alloy",
+      "item.the_star_wars_saga_mod.cody_leggings": "Cody\u0027s Leggings",
+      "block.the_star_wars_saga_mod.jediholocron": "Jediholocron",
+      "item.the_star_wars_saga_mod.unrifendtitanium": "Unrifend titanium",
+      "item.minecraft.lingering_potion.effect.sithmagic": "Lingering Sith magic",
+      "item.the_star_wars_saga_mod.stormtrooper_boots": "Stormtrooper Boots",
+      "block.the_star_wars_saga_mod.turret": "Turret",
+      "item.the_star_wars_saga_mod.ewokchief_spawn_egg": "Ewok chieften Spawn Egg",
+      "item.the_star_wars_saga_mod.b_1droid_spawn_egg": "B-1droid Spawn Egg",
+      "itemGroup.tablegoin_501": "the 501st legion",
+      "item.the_star_wars_saga_mod.ankinslightsaber": "Ankins lightsaber",
+      "item.the_star_wars_saga_mod.clone_501_helmet": "Clone 5 0 1 Helmet",
+      "item.the_star_wars_saga_mod.clonecommando_chestplate": "Clonecommando Body",
+      "item.the_star_wars_saga_mod.cody_chestplate": "Cody\u0027s Body",
+      "item.the_star_wars_saga_mod.copper_dust": "Copper",
+      "item.the_star_wars_saga_mod.ewokhead_spawn_egg": "Ewokhead Spawn Egg",
+      "item.the_star_wars_saga_mod.spicechunk": "Spicechunk",
+      "item.the_star_wars_saga_mod.clone_401_boots": "Clone 4 0 1 Boots",
+      "entity.the_star_wars_saga_mod.farmdroid": "carrot Farm droid",
+      "item.the_star_wars_saga_mod.bersker_ingot": "Bersker",
+      "item.the_star_wars_saga_mod.elctrostaff": "Elctrostaff",
+      "block.the_star_wars_saga_mod.smoothvolcanorock": "Smoothvolcanorock",
+      "item.the_star_wars_saga_mod.kesselplannet": "Kesselplannet Portal Igniter",
+      "item.the_star_wars_saga_mod.clone_401_leggings": "Clone 4 0 1 Leggings",
+      "item.the_star_wars_saga_mod.ewokchief": "Ewok chieften Spawn Egg",
+      "item.the_star_wars_saga_mod.captianrexs_boots": "Captian rexs Boots",
+      "item.the_star_wars_saga_mod.wookie": "Wookie Spawn Egg",
+      "item.the_star_wars_saga_mod.clonecommando_leggings": "Clonecommando Leggings",
+      "item.the_star_wars_saga_mod.admrilorgenral_boots": "Admrilorgenral Boots",
+      "item.the_star_wars_saga_mod.vadersst_chestplate": "501st storm trooper Body",
+      "item.the_star_wars_saga_mod.clone_501_chestplate": "Clone 5 0 1 Body",
+      "block.the_star_wars_saga_mod.shrub_leaves": "Shrub Leaves",
+      "block.the_star_wars_saga_mod.pumice": "PUMICE",
+      "block.the_star_wars_saga_mod.shrub_log": "Shrub Log",
+      "block.the_star_wars_saga_mod.titanium_block": "Block of Titanium",
+      "item.the_star_wars_saga_mod.vadersst_helmet": "501st storm trooper Helmet",
+      "item.the_star_wars_saga_mod.cody_helmet": "Cody\u0027s Helmet",
+      "item.the_star_wars_saga_mod.farmdroid_spawn_egg": "carrot Farm droid Spawn Egg",
+      "item.the_star_wars_saga_mod.captianrexs_helmet": "Captian rexs Helmet",
+      "block.the_star_wars_saga_mod.shrub_planks": "Shrub Planks",
+      "block.the_star_wars_saga_mod.copper_ore_block": "Block of Copper",
+      "item.the_star_wars_saga_mod.endor_rebal_leggings": "endor Leggings",
+      "item.the_star_wars_saga_mod.porg": "Porg Spawn Egg",
+      "block.the_star_wars_saga_mod.camoesheet": "Camoesheet",
+      "entity.the_star_wars_saga_mod.porg": "Porg"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "the_star_wars_saga_mod",
+    "modName": "the star wars saga mod",
+    "version": "1.0.0",
+    "author": "Jem, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.thestarwarssagamod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 13,
+  "_type": "potion",
+  "definition": {
+    "name": "Sith magic",
+    "effectName": "Sithmagic",
+    "icon": "sithtexture1.png",
+    "color": {
+      "value": -10616736,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "SithmagicPotionStartedapplied"
+    }
+  }
+}

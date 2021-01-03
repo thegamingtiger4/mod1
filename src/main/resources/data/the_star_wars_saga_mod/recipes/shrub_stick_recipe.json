@@ -1,0 +1,20 @@
+{
+  "group": "the_star_wars_saga_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "the_star_wars_saga_mod:shrub_planks"
+    },
+    "1": {
+      "item": "the_star_wars_saga_mod:shrub_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick",
+    "count": 4
+  }
+}

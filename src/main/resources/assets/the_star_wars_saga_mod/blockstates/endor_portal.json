@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "the_star_wars_saga_mod:block/endor_portal_ew"
+    },
+    "axis=x": {
+      "model": "the_star_wars_saga_mod:block/endor_portal_ns"
+    }
+  }
+}

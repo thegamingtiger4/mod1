@@ -1,0 +1,7 @@
+{
+  "parent": "the_star_wars_saga_mod:custom/f-11d",
+  "textures": {
+    "texture": "the_star_wars_saga_mod:blocks/blaster",
+    "particle": "the_star_wars_saga_mod:items/blaster"
+  }
+}

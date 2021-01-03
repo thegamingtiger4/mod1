@@ -1,0 +1,26 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "saberankin",
+    "customModelName": "Normal",
+    "name": "Ankins lightsaber",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Legoin501"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 6,
+    "efficiency": 5.5,
+    "attackSpeed": 3.9999999999999996,
+    "enchantability": 6,
+    "damageVsEntity": 17.5,
+    "usageCount": 11400,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "saberdark",
+    "customModelName": "Normal",
+    "name": "Dark saber",
+    "specialInfo": [
+      "a dark force around you"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Mustfar"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 10.0,
+    "attackSpeed": 0.6,
+    "enchantability": 15,
+    "damageVsEntity": 20.0,
+    "usageCount": 100000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Blackkyber"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedOnBlock": {
+      "name": "DarksaberRightClickedOnBlock"
+    }
+  }
+}

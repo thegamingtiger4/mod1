@@ -1,0 +1,33 @@
+{
+  "group": "the_star_wars_saga_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "1": {
+      "item": "the_star_wars_saga_mod:plastiodalloy"
+    },
+    "3": {
+      "item": "the_star_wars_saga_mod:plastiodalloy"
+    },
+    "4": {
+      "item": "the_star_wars_saga_mod:whitepaint"
+    },
+    "5": {
+      "item": "the_star_wars_saga_mod:plastiodalloy"
+    },
+    "6": {
+      "item": "the_star_wars_saga_mod:plastiodalloy"
+    },
+    "8": {
+      "item": "the_star_wars_saga_mod:plastiodalloy"
+    }
+  },
+  "result": {
+    "item": "the_star_wars_saga_mod:stormtrooper_leggings",
+    "count": 1
+  }
+}

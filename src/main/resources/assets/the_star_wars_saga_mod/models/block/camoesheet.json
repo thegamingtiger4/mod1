@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "the_star_wars_saga_mod:blocks/camo",
+    "particle": "the_star_wars_saga_mod:blocks/camo"
+  }
+}

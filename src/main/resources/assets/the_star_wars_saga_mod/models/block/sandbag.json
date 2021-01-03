@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "the_star_wars_saga_mod:blocks/isand",
+    "bottom": "the_star_wars_saga_mod:blocks/sandbag",
+    "top": "the_star_wars_saga_mod:blocks/sandbag",
+    "side": "the_star_wars_saga_mod:blocks/sandbag"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "the_star_wars_saga_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_star_wars_saga_mod:bersker_ingot"
+    },
+    "2": {
+      "item": "the_star_wars_saga_mod:bersker_ingot"
+    },
+    "3": {
+      "item": "the_star_wars_saga_mod:bersker_ingot"
+    },
+    "4": {
+      "item": "the_star_wars_saga_mod:bersker_ingot"
+    },
+    "5": {
+      "item": "the_star_wars_saga_mod:bersker_ingot"
+    },
+    "6": {
+      "item": "the_star_wars_saga_mod:bersker_ingot"
+    },
+    "7": {
+      "item": "the_star_wars_saga_mod:bersker_ingot"
+    },
+    "8": {
+      "item": "the_star_wars_saga_mod:bersker_ingot"
+    }
+  },
+  "result": {
+    "item": "the_star_wars_saga_mod:bersker_armor_chestplate",
+    "count": 1
+  }
+}

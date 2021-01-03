@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "crystal1",
+        "missing": "crystal1"
+      },
+      "name": "default"
+    }
+  }
+}

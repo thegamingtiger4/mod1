@@ -1,0 +1,47 @@
+{
+  "yyyt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "the_star_wars_saga_mod:star_wars_-_john_williams_-_duel_of_the_fates",
+        "stream": false
+      }
+    ]
+  },
+  "jarjarhurt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "the_star_wars_saga_mod:jar_jar_screaming",
+        "stream": false
+      }
+    ]
+  },
+  "jarjarspeech": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "the_star_wars_saga_mod:jar_jar_sounds",
+        "stream": false
+      }
+    ]
+  },
+  "jajardeath": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "the_star_wars_saga_mod:very_very_bad",
+        "stream": false
+      }
+    ]
+  },
+  "speeder": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "the_star_wars_saga_mod:8d82b5_speeder_bike_sound_effect_-_copy",
+        "stream": false
+      }
+    ]
+  }
+}

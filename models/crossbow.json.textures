@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "._crossbow_standby",
+        "1": "",
+        "2": "",
+        "3": "",
+        "-1": ""
+      },
+      "name": "default"
+    }
+  }
+}
