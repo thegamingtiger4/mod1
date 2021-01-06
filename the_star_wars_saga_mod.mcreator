@@ -2202,6 +2202,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "darth_1"
+    },
+    {
+      "name": "Atst",
+      "type": "mob",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "atst"
     }
   ],
   "variable_elements": [
@@ -2254,8 +2263,8 @@
     "en_us": {
       "item.the_star_wars_saga_mod.flamefrower_1": "D-93 Incinerator flamethrower",
       "item.the_star_wars_saga_mod.mustffar": "Mustffar Portal Igniter",
-      "block.the_star_wars_saga_mod.naboo_oak_log": "Naboo_oak Log",
       "item.the_star_wars_saga_mod.bootleofspice": "Botlle of spice",
+      "block.the_star_wars_saga_mod.naboo_oak_log": "Naboo_oak Log",
       "item.the_star_wars_saga_mod.darksaber": "Dark saber",
       "subtitles.speeder": "",
       "item.the_star_wars_saga_mod.bowcaster": "Bowcaster",
@@ -2355,7 +2364,9 @@
       "item.the_star_wars_saga_mod.admrilorgenral_chestplate": "Admrilorgenral Body",
       "item.the_star_wars_saga_mod.admrilorgenral_leggings": "Admrilorgenral Leggings",
       "item.the_star_wars_saga_mod.searedbanthachops": "Searedbanthachops",
+      "item.the_star_wars_saga_mod.atst_spawn_egg": "Atst Spawn Egg",
       "item.the_star_wars_saga_mod.kesselsecuritydroid_spawn_egg": "Kessel security droid Spawn Egg",
+      "entity.the_star_wars_saga_mod.atst": "Atst",
       "block.the_star_wars_saga_mod.bunkerdoor": "Bunkerdoor",
       "itemGroup.tabmoney": "Money",
       "item.the_star_wars_saga_mod.clone_501_leggings": "Clone 5 0 1 Leggings",
