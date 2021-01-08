@@ -1,0 +1,42 @@
+{
+  "group": "the_star_wars_saga_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_star_wars_saga_mod:vanaditite"
+    },
+    "1": {
+      "item": "the_star_wars_saga_mod:vanaditite"
+    },
+    "2": {
+      "item": "the_star_wars_saga_mod:vanaditite"
+    },
+    "3": {
+      "item": "the_star_wars_saga_mod:vanaditite"
+    },
+    "4": {
+      "item": "the_star_wars_saga_mod:vanaditite"
+    },
+    "5": {
+      "item": "the_star_wars_saga_mod:vanaditite"
+    },
+    "6": {
+      "item": "the_star_wars_saga_mod:vanaditite"
+    },
+    "7": {
+      "item": "the_star_wars_saga_mod:vanaditite"
+    },
+    "8": {
+      "item": "the_star_wars_saga_mod:vanaditite"
+    }
+  },
+  "result": {
+    "item": "the_star_wars_saga_mod:vanaditite_block",
+    "count": 1
+  }
+}

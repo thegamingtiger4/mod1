@@ -2211,6 +2211,150 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "atst"
+    },
+    {
+      "name": "Vanaditite",
+      "type": "item",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vanaditite"
+    },
+    {
+      "name": "VanadititeOre",
+      "type": "block",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vanaditite_ore"
+    },
+    {
+      "name": "VanadititeBlock",
+      "type": "block",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vanaditite_block"
+    },
+    {
+      "name": "VanadititeOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vanaditite_ore_block_recipe"
+    },
+    {
+      "name": "VanadititeBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vanaditite_block_ore_recipe"
+    },
+    {
+      "name": "VanadititeOreSmelting",
+      "type": "recipe",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vanaditite_ore_smelting"
+    },
+    {
+      "name": "RT97C",
+      "type": "gun",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rt_97_c"
+    },
+    {
+      "name": "RubidiumIngot",
+      "type": "item",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubidium_ingot"
+    },
+    {
+      "name": "RubidiumOre",
+      "type": "block",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubidium_ore"
+    },
+    {
+      "name": "RubidiumBlock",
+      "type": "block",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubidium_block"
+    },
+    {
+      "name": "RubidiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubidium_ore_block_recipe"
+    },
+    {
+      "name": "RubidiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubidium_block_ore_recipe"
+    },
+    {
+      "name": "RubidiumOreSmelting",
+      "type": "recipe",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubidium_ore_smelting"
+    },
+    {
+      "name": "Nightvisiongoggle",
+      "type": "armor",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nightvisiongoggle",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "NightvisiongoggleHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nightvisiongoggle_helmet_tick_event",
+      "metadata": {
+        "dependencies": []
+      }
     }
   ],
   "variable_elements": [
@@ -2272,6 +2416,7 @@
       "entity.the_star_wars_saga_mod.kesselsecuritydroid": "Kessel security droid",
       "advancements.pathofthejedi.title": "Path of the jedi",
       "item.the_star_wars_saga_mod.whitepaint": "Whitepaint",
+      "block.the_star_wars_saga_mod.rubidium_block": "Block of Rubidium",
       "block.the_star_wars_saga_mod.carvedobsiadan": "Carvedobsiadan",
       "entity.the_star_wars_saga_mod.jarjarbinks": "Jarjar-binks",
       "block.the_star_wars_saga_mod.naboo_oak_fence": "Naboo_oak Fence",
@@ -2292,6 +2437,7 @@
       "item.the_star_wars_saga_mod.endor": "Endor Portal Igniter",
       "item.the_star_wars_saga_mod.captianrexs_chestplate": "Captian rexs Body",
       "item.the_star_wars_saga_mod.bluekybershard": "Bluekybershard",
+      "item.the_star_wars_saga_mod.vanaditite": "Vanaditite crystal",
       "itemGroup.tabmustfar": "Mustfar",
       "block.the_star_wars_saga_mod.basaltkyberore": "Basaltkyberore",
       "effect.sithmagic": "Sithmagic",
@@ -2316,6 +2462,7 @@
       "block.the_star_wars_saga_mod.basalt": "Basalt",
       "entity.the_star_wars_saga_mod.ewokchief": "Ewok chieften",
       "biome.the_star_wars_saga_mod.kessel": "Kessel",
+      "item.the_star_wars_saga_mod.rt_97_c": "RT-97C",
       "entity.the_star_wars_saga_mod.wookie": "Wookie",
       "item.the_star_wars_saga_mod.jettrooper_helmet": "501st Jet trooper Helmet",
       "block.the_star_wars_saga_mod.kesselsand": "Kesselsand",
@@ -2326,10 +2473,12 @@
       "block.the_star_wars_saga_mod.bluecraystal": "Bluecraystal",
       "block.the_star_wars_saga_mod.copper_ore": "Copper Ore",
       "item.the_star_wars_saga_mod.titanium": "Titanium disc",
+      "item.the_star_wars_saga_mod.rubidium_ingot": "Rubidium",
       "block.the_star_wars_saga_mod.volcanorock": "Volcanorock",
       "biome.the_star_wars_saga_mod.mustfarlakes": "Mustfarl akes",
       "item.the_star_wars_saga_mod.jettrooper_leggings": "501st Jet trooper Leggings",
       "block.the_star_wars_saga_mod.titanium_ore": "Titanium Ore",
+      "item.the_star_wars_saga_mod.nightvisiongoggle_chestplate": "Nightvisiongoggle Body",
       "item.the_star_wars_saga_mod.vadersst_boots": "501st storm trooper Boots",
       "entity.the_star_wars_saga_mod.b_1droid": "B-1droid",
       "item.the_star_wars_saga_mod.captianrexs_leggings": "Captian rexs Leggings",
@@ -2337,6 +2486,7 @@
       "block.the_star_wars_saga_mod.sithholocron": "Sithholocron",
       "item.the_star_wars_saga_mod.clone_401_chestplate": "Clone 4 0 1 Body",
       "block.the_star_wars_saga_mod.shrub_fence_gate": "Shrub Fence Gate",
+      "block.the_star_wars_saga_mod.rubidium_ore": "Rubidium Ore",
       "item.the_star_wars_saga_mod.fd_11": "FD 11",
       "item.the_star_wars_saga_mod.imprielcommnder_spawn_egg": "Imprielcommnder Spawn Egg",
       "itemGroup.tabdefensive": "Defensive",
@@ -2354,6 +2504,7 @@
       "block.the_star_wars_saga_mod.spiceore": "Spiceore",
       "item.the_star_wars_saga_mod.jarjarbinks_spawn_egg": "Jarjar-binks Spawn Egg",
       "block.the_star_wars_saga_mod.naboo_oak_slab": "Naboo_oak Slab",
+      "block.the_star_wars_saga_mod.vanaditite_ore": "Vanaditite Ore",
       "advancements.pathofthejedi.descr": "obtian a blue kyber  crystal",
       "block.the_star_wars_saga_mod.naboo_oak_leaves": "Naboo_oak Leaves",
       "block.the_star_wars_saga_mod.sithtable": "Sithtable",
@@ -2367,8 +2518,10 @@
       "item.the_star_wars_saga_mod.atst_spawn_egg": "Atst Spawn Egg",
       "item.the_star_wars_saga_mod.kesselsecuritydroid_spawn_egg": "Kessel security droid Spawn Egg",
       "entity.the_star_wars_saga_mod.atst": "Atst",
+      "item.the_star_wars_saga_mod.nightvisiongoggle_leggings": "Nightvisiongoggle Leggings",
       "block.the_star_wars_saga_mod.bunkerdoor": "Bunkerdoor",
       "itemGroup.tabmoney": "Money",
+      "item.the_star_wars_saga_mod.nightvisiongoggle_helmet": "Night-vision goggles",
       "item.the_star_wars_saga_mod.clone_501_leggings": "Clone 5 0 1 Leggings",
       "block.the_star_wars_saga_mod.bersker_ore": "Bersker Ore",
       "block.the_star_wars_saga_mod.tin_block": "Block of Tin",
@@ -2387,6 +2540,7 @@
       "block.the_star_wars_saga_mod.naboo_oak_fence_gate": "Naboo_oak Fence Gate",
       "key.mcreator.fireatwillofplayer": "Fireatwillofplayer",
       "item.the_star_wars_saga_mod.credits_5": "gold Credits ",
+      "item.the_star_wars_saga_mod.nightvisiongoggle_boots": "Nightvisiongoggle Boots",
       "item.the_star_wars_saga_mod.tin_ingot": "Tin",
       "item.the_star_wars_saga_mod.clonecommando_helmet": "Clonecommando Helmet",
       "entity.the_star_wars_saga_mod.barcspeeder": "Barc speeder",
@@ -2415,6 +2569,7 @@
       "item.the_star_wars_saga_mod.bersker_ingot": "Bersker",
       "item.the_star_wars_saga_mod.elctrostaff": "Elctrostaff",
       "block.the_star_wars_saga_mod.smoothvolcanorock": "Smoothvolcanorock",
+      "block.the_star_wars_saga_mod.vanaditite_block": "Block of Vanaditite",
       "item.the_star_wars_saga_mod.kesselplannet": "Kesselplannet Portal Igniter",
       "item.the_star_wars_saga_mod.clone_401_leggings": "Clone 4 0 1 Leggings",
       "item.the_star_wars_saga_mod.ewokchief": "Ewok chieften Spawn Egg",

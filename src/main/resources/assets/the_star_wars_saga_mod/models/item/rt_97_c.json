@@ -1,0 +1,7 @@
+{
+  "parent": "the_star_wars_saga_mod:custom/gun1",
+  "textures": {
+    "0": "the_star_wars_saga_mod:blocks/gun_tex_mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
+    "particle": "the_star_wars_saga_mod:items/dc15"
+  }
+}

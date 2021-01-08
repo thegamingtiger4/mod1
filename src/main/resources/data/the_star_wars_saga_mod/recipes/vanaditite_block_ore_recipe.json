@@ -1,0 +1,13 @@
+{
+  "group": "the_star_wars_saga_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_star_wars_saga_mod:vanaditite_block"
+    }
+  ],
+  "result": {
+    "item": "the_star_wars_saga_mod:vanaditite",
+    "count": 9
+  }
+}
